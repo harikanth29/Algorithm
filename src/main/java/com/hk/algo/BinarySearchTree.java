@@ -6,7 +6,9 @@ package com.hk.main.java.tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-
+/*
+* This  class had the implementation for insert elements into binary search tree and trasvarse in BFS ,DFS methods
+*/
 public class BinarySearchTree {
     public static Node root;
 
